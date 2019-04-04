@@ -1,6 +1,7 @@
 <!-- .slide: data-background-size="cover" style="padding-left: 80px" data-background="./img/2019/psdw/bg-1.png" -->
 
 <h1 style="text-align: left; font-size: 80px;">Collaborating with Core</h1>
+<h2 style="text-align: left; font-size: 60px;">A Practical Guide</h2>
 <p style="text-align: left; font-size: 30px;">Carsten Piepel</p>
 <p style="text-align: left; font-size: 30px;"><a href="https://github.com/carstenpiepel">@carstenpiepel</a></p>
 <p style="text-align: left; font-size: 30px;">Slides: <a href="https://bit.ly/2I7YxVY"><code>http://bit.ly/abc123</code></a></p>
@@ -44,6 +45,7 @@
 
 <img alt="Margaret Hamilton" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Margaret_Hamilton_-_restoration.jpg" style="width: 30%; height: 30%">
 
+[Credit: https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg) <!-- .element: style="position:absolute; bottom:20px; right:20px; font-size:0.5em" -->
 <aside class="notes">
  - Smart people: Margaret Hamilton is topical because she invented the term software engineering and because was a literal rocket scientist who helped develop on-board flight software for the Apollo space program. There are a many incredibly smart people at Esri as well. Together we can achieve better outcomes than as individuals.
 </aside>
@@ -52,7 +54,14 @@
 
 <!-- .slide: data-background="./img/2019/psdw/bg-4.png" -->
 
-## (Org chart goes here)
+Esri has five primary groups that work to build and release the ArcGIS product:
+
+* Software Development Division led by Sud Menon <!-- .element: class="fragment" -->
+* Product Engineering Division led by Clint Brown <!-- .element: class="fragment" -->
+* Product Management Division led by Dirk Gorter <!-- .element: class="fragment" -->
+* Product Marketing Division led by Maria Lomoro <!-- .element: class="fragment" -->
+* Solutions Division led by Damian Spangrud <!-- .element: class="fragment" -->
+
 
 ---
 
@@ -131,6 +140,8 @@
 
 * It is possible to attach a case to an existing bug or enhancement request <!-- .element: class="fragment" -->
 
+* Connect with Jacob "Jake" Baca
+
 * ArcGIS ideas <!-- .element: class="fragment" -->
 
 * Customer Advocacy <!-- .element: class="fragment" -->
@@ -153,7 +164,7 @@
 
 ## Charging guidance
 
-* Once bug record has been created, PM/TA can request unbillable charge code <!-- .element: class="fragment" -->
+* Once bug record has been created, PM/TA can request unbillable R&D charge code <!-- .element: class="fragment" -->
 
 * Diagnosing and reporting of defect as well as testing of fixes are eligible <!-- .element: class="fragment" -->
 
@@ -170,11 +181,12 @@
 ## Ask yourself ...
 
 * Should we send a paying PS customer to tech suppport? <!-- .element: class="fragment" -->
- - Might well depend on the lifecycle stage of any given customer relationship <!-- .element: class="fragment" -->
 
-* What can we do to smooth out the tech support experience? <!-- .element: class="fragment" -->
+* What lifecycle stage are we in the customer relationship <!-- .element: class="fragment" -->
 
-* Should PS help escalate? <!-- .element: class="fragment" -->
+* Can we smooth out the tech support experience? <!-- .element: class="fragment" -->
+
+* Should we escalate? <!-- .element: class="fragment" -->
 
 
 <aside class="notes">
@@ -189,6 +201,8 @@
 
 <img alt="After action review" src="https://media.defense.gov/2018/Jan/23/2001868567/3836/3836/0/180118-M-TM546-092A.JPG" style="width: 50%; height: 50%">
 
+[Credit: https://media.defense.gov/2018/Jan/23/2001868567/3836/3836/0/180118-M-TM546-092A.JPG](https://media.defense.gov/2018/Jan/23/2001868567/3836/3836/0/180118-M-TM546-092A.JPG) <!-- .element: style="position:absolute; bottom:20px; right:20px; font-size:0.5em" -->
+
 <aside class="notes">
  - What happened, why it happened, and how it can be done better
  - What worked and didn't work
@@ -202,6 +216,9 @@
 
 
 <img alt="Stronger together" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Stronger_Together.png" style="width: 50%; height: 50%">
+
+
+[Credit: https://upload.wikimedia.org/wikipedia/commons/7/7c/Stronger_Together.png](https://upload.wikimedia.org/wikipedia/commons/7/7c/Stronger_Together.png) <!-- .element: style="position:absolute; bottom:20px; right:20px; font-size:0.5em" -->
 
 <aside class="notes">
 </aside>
