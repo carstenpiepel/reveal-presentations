@@ -2,7 +2,7 @@
 
 <h1 style="text-align: left; font-size: 80px;">Presentation Title</h1>
 <p style="text-align: left; font-size: 30px;">Name(s)</p>
-<p style="text-align: left; font-size: 30px;"><a href="https://github.com/handle">@handle</a></p>
+<p style="text-align: left; font-size: 30px;"><a href="https://github.com/handle">@carstenpiepel</a></p>
     <p style="text-align: left; font-size: 30px;">slides: <a href="http://bit.ly/abc123"><code>http://bit.ly/abc123</code></a></p>
 
 ---
