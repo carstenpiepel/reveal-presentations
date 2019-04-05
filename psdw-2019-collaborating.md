@@ -140,7 +140,7 @@ Esri has five primary groups that work to build and release the ArcGIS product:
 
 * It is possible to attach a case to an existing bug or enhancement request <!-- .element: class="fragment" -->
 
-* Connect with Jacob "Jake" Baca
+* Connect with Jacob "Jake" Baca <!-- .element: class="fragment" -->
 
 * ArcGIS ideas <!-- .element: class="fragment" -->
 
